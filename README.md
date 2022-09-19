@@ -2,26 +2,21 @@
 
 I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
 
-*   🌍  I'm based in Pune
-*   ✉️  You can contact me at [sudapure@gmail.com](mailto:sudapure@gmail.com)
-
 ⚡  Some of my notable open source contributions:
 
-* [Yolov5](https://github.com/ultralytics/yolov5)(25k Stars) - Most commits  after the creator. Built MLOps features that allow users to make their pipelines device independent, enable better tracing and utilize spot instances.
+* [Tensorrtx](https://github.com/wang-xinyu/tensorrtx)(4.6k Stars) - Integrated new [Yolov5-v6.2](https://github.com/ultralytics/yolov5/releases/tag/v6.2) classification model support to inference using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1082)). SuperPoint Pytorch implementation using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1034))
 
-* [HuggingFace](https://github.com/huggingface/transformers)(60k Stars) - Added support for W&B backend for hyperparameter tuning for transformer models. ([PR](https://github.com/huggingface/transformers/pull/14582))
+* [Tencent/Ncnn](https://github.com/Tencent/ncnn)(15.5k Stars) - Added sample android based application which infers Yolov7 PyTorch model. ([PR](https://github.com/Tencent/ncnn/pull/4038)), the android sample is hosted at [xiang-wuu/ncnn-android-yolov7](https://github.com/xiang-wuu/ncnn-android-yolov7)
 
-* [Detectron2](https://github.com/facebookresearch/detectron2) (20K Start) - Worked with FAIR to build W&B integration to manage experiment tracking and model evaluation. ([PR](https://github.com/facebookresearch/detectron2/pull/3716))
+* [Yolov5](https://github.com/ultralytics/yolov5) (30k Stars) - Added Gardio integration with hugging face spaces to offecial Yolov5 implementation.([PR](https://github.com/ultralytics/yolov5/pull/8784))
 
-* [SpaCy](https://github.com/explosion/spaCy) (23K Stars) - Built experiment and dataset management integration with W&B.([PR](https://github.com/explosion/spaCy/pull/7429))
+* [Yolov6](https://github.com/meituan/YOLOv6) (4k Stars) - Added DVC integration support to track data/model artifacts & support for MLOps integration. ([PR](https://github.com/meituan/YOLOv6/pull/250))
 
-* [PyCaret](https://github.com/pycaret/pycaret) (5k Stars) - Redesigned entire dashboard logging API from scratch to support all types of experiment types in AutoML. ([PR](https://github.com/pycaret/pycaret/pull/2231))
+* [Yolov7](https://github.com/WongKinYiu/yolov7) (5.5k Stars) - Added TensorRT inference support to offecial Yolov7 implementation. ([PR](https://github.com/WongKinYiu/yolov7/pull/57)), also added some very basic functionality ([PR](https://github.com/WongKinYiu/yolov7/pull/54))
 
-* [Coqui-TTS](https://github.com/coqui-ai/TTS) (4.4k Stars) - Built experiment management API and added support for W&B. ([PR](https://github.com/coqui-ai/TTS/pull/613))
+* [xiang-wuu/TensorRT-PTQ](https://github.com/xiang-wuu/TensorRT-PTQ) - Post Training Quantization inference using TensorRT for different CNN Architectures. 
 
-* [CycleGan-and-Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) (17K Stars) - Added support for training and inference tracking. ([PR](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/pull/1317))
-
-* [Wandb](https://github.com/wandb/client) (3.8K Stars) - Built a console login timeout feature which supports teletype consoles for all platforms( Linux, Unix, and Windows). ([PR](https://github.com/wandb/client/pull/2503))
+* [xiang-wuu/opencv-projects](https://github.com/xiang-wuu/opencv-projects) - Collection of many usefull computer vision based projects for study and academic purposes. 
 
 
 ### Skills
@@ -44,8 +39,8 @@ I'm an engineer with interest in applied ML and software development. I love wor
                           
 <p align="left"> 
 <a href="https://www.github.com/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+ <a href="https://bitbucket.org/swap786" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bitbucket-logo-A98CDF7FBA-seeklogo.com.png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/uswap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/1632479/u-swap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://huggingface.co/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
-
 </p>
