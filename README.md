@@ -61,6 +61,6 @@ I'm an engineer with interest in applied ML and software development. I love wor
 <a href="https://www.github.com/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
  <a href="https://bitbucket.org/swap786" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bitbucket-logo-A98CDF7FBA-seeklogo.com.png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/uswap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://stackoverflow.com/users/1632479/u-swap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://huggingface.co/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
 </p>
