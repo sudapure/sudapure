@@ -1,6 +1,25 @@
 ### Hi there 👋
 
+<table  border="0" cellspacing="0" cellpadding="0">
+  <tr><td width="20%" height="20%"><a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1632479"/></a>
+</td>
+    <td height="20%">
 I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
+
+**My Specializations  & Expertise**
+- Understanding the problem statement & finding best optimal solution.
+- Technical decision making & finalizing solution technology.
+- Leading ML engineers along with MLOps data associates.
+- Evaluating and Researching with various ML/DL algorithms which suits high level problem requirements.
+- Responsible for establishing and managing MLOps and complex ML workflow pipeline along with source version control system.
+- Leading team of data science & feature engineers along with manual data annotation developers.
+- Experience in working with PyTorch deep learning framework for design and implementation of CNN's for image recognition, classification, retrieval problems.
+- Deciding optimization strategies for complex computer vision based deep learning problems.
+- Experience in deploying pre-trained NN models to highly optimized inference engines like NVIDIA TensorRT, Intel Openvino, TFlite and Android NDK's.
+    </td>
+    </tr>
+</table>
+
 
 ⚡  Some of my notable open source contributions:
 
@@ -53,7 +72,8 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 ![](https://komarev.com/ghpvc/?username=xiang-wuu&color=green)
 
-<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=xiang-wuu&hide_border=true" /><img width="53%"  src="https://github-readme-stats.vercel.app/api?username=xiang-wuu&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=xiang-wuu&hide_border=true"/><img width="53%" src="https://github-readme-stats.vercel.app/api?username=xiang-wuu&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  
 
 ### Socials
                           
