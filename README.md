@@ -1,11 +1,11 @@
 ### Hi there 👋
+I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
 
 <table  border="0" cellspacing="0" cellpadding="0">
   <tr><td width="20%" height="20%"><a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1632479"/></a>
 </td>
     <td height="20%">
-I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
-
+    
 **My Specializations  & Expertise**
 - Understanding the problem statement & finding best optimal solution.
 - Technical decision making & finalizing solution technology.
