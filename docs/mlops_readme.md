@@ -1,7 +1,5 @@
 ## Index 
 1. Introduction<br/>
-&emsp;1.1 Scope<br/>
-&emsp;1.2 Context
 2. Data Science Team Responsibilities<br/>
 &emsp;2.1 Data collection<br/>
 &emsp;2.2 Data validation & filtering<br/>
@@ -9,15 +7,17 @@
 &emsp;2.4 Data Pre-processing Pipeline<br/>
 &emsp;2.5 Exploratory Data analysis<br/>
 &emsp;2.6 MLops & data management responsibilities<br/>
-3. Data Standardization & Workflow pipeline
-4. AI/NN End-to-end Pipeline
-5. Team Structure
-6. Development Process
-7. References
+3. Data Standardization & Workflow pipeline<br/>
+&emsp;3.1 Data Workflow management using DVC+Git<br/>
+&emsp;3.2 DVC+Git to track all AI training logs & data artifacts<br/>
+5. AI/NN End-to-end Pipeline
+6. Team Structure
+7. Development Process
+8. References
 
 ***
 ## Introduction
-This page introduces data science team scope & responsibilities also data Standardization and workflow pipeline management along with type and nature of efforts required to handle the data related jobs and also explains the development approach, methodologies, coding practices and the tools to be used for this project. This ensures better development & research quality in a short time from a small team with granular updates and complete transparency and avoids filthy code and development practices.
+This page introduces data science & annotation team scope & responsibilities also data Standardization and workflow pipeline management along with type and nature of efforts required to handle the data related jobs and also explains the development approach, methodologies, coding practices and the tools to be used for this project. This ensures better development & research quality in a short time from a small team with granular updates and complete transparency and avoids filthy code and development practices.
 
 
 ***
@@ -147,6 +147,35 @@ In above command -R option will recursively add all the sub directories for inde
 
 **Disclaimer**: _In order to create a new branch for completely new dataset use-case , like for example segmentation or multilabel classification or modifying some meta things in the existing DVC pipeline using either git or DVC, **datascience developers must inform this to there T.L's ** before making any of these changes, **even in case of deleting some images or dataset revisions** T.L's must be informed, **in case of any damage/corruption to data stored over cloud or even local workspace cache the developer themselves will be convicted as responsible for the cause of happening**._
 
+
+### DVC+Git to track all AI training logs & data artifacts
+As multiple experimentation's are conducted for a use-case specific implementation it becomes difficult to maintain versions of every model weights/checkpoints, tensorboard logs and its evaluation files on GitHub, due to this reason DVC must be integrated for versioning all training related artifacts along with the existing code base.
+Following structure needs to be followed for maintaining the model weights and its respective evaluation files,
+
+![Screenshot from 2021-12-14 15-34-30](https://user-images.githubusercontent.com/72791642/145977410-a59ab110-eaeb-48a6-bcc0-f1c1251bd1f0.png)
+
+Apart from the above dir structure one has to also include dir for `meta_info` inside of every experimentation dir, which will signify following things related to given experiment,
+1. Model architecture represented using graph diagram or model summary.
+2. Optimizer used in the experiment
+3. Loss function used
+4. pre-process transform used for train/val data
+5. other hyper-parameters like lr_rate, momentum,etc.
+6. model has fine-tuned(transfer learning) or trained from scratch.
+
+**NOTE**: For versioning convenience it is good to enclose `dvc push` inside(before) of `git push` , one can follow below execution sequence,
+
+
+`dvc add`<br/>
+`dvc commit`<br/>
+`dvc push`<br/>
+`git add`<br/>
+`git commit`<br/>
+`git push <up_stream>`
+
+
+using this, upstream git commit itself will ensure that `dvc push` has already been executed and successful, in case of any technical issue with `dvc` commit/push the subsequent `git push` won't happen until the issue gets resolved, which eventually signifies the respective `dvc push` command was successful, and no explicit information or notification is required as done in [this](https://github.com/onearmbandit/VAS-Core-Research/pull/47#issuecomment-994424138) comment.
+
+
 ***
 
 ## AI/NN end to end pipeline<p align="center" >
@@ -173,7 +202,7 @@ Dataset Creation: Data Creation means the use of the Data, whether incorporated 
 **NN model Optimization**: This phase involves optimization of NN architectures using different algorithms/techniques the optimization can occur at different stages from NN modeling to gradient optimizer to loss functions etc. techniques like post training quantization and quantization aware training also incorporated in this phase of development.
 
 ### AI/NN Deployment Solution
-This phase mainly involves selection of appropriate inference engine framework by considering the deployable production scenarios, like in case of CPU based deployment we can make use of OpenVino and for GPU?s TensorRT is the choice. This also includes **Inference Optimization** using which the research oriented models can be optimized using inference engine accelerators.
+This phase mainly involves selection of appropriate inference engine framework by considering the deployable production scenarios, like in case of CPU based deployment we can make use of OpenVino and for GPU's TensorRT is the choice. This also includes **Inference Optimization** using which the research oriented models can be optimized using inference engine accelerators.
 
 
 ## DEVELOPMENT PROCESS/ Code of Conduct
@@ -223,4 +252,4 @@ every issue on GitHub will be tagged with one specific label, the label will des
 
 ## References
 1. [DVC documentation](http://dvc.org/doc)
-2. gtihub [discussions](https://github.com/onearmbandit/VAS-Data-Science/discussions) 
+2. GitHub [discussions](https://github.com/onearmbandit/VAS-Data-Science/discussions) 
