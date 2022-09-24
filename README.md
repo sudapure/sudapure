@@ -23,7 +23,7 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 ⚡  Some of my notable open source contributions:
 
-* [Tensorrtx](https://github.com/wang-xinyu/tensorrtx)(4.6k Stars) - Integrated new [Yolov5-v6.2](https://github.com/ultralytics/yolov5/releases/tag/v6.2) classification model support to inference using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1082)). SuperPoint Pytorch implementation using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1034))
+* [Tensorrtx](https://github.com/wang-xinyu/tensorrtx)(4.6k Stars) - Integrated new [Yolov5-v6.2](https://github.com/ultralytics/yolov5/releases/tag/v6.2) classification model support to infer using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1082)). SuperPoint Pytorch implementation using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1034))
 
 * [Tencent/Ncnn](https://github.com/Tencent/ncnn)(15.5k Stars) - Added sample android based application which infers Yolov7 PyTorch model. ([PR](https://github.com/Tencent/ncnn/pull/4038)), the android sample is hosted at [xiang-wuu/ncnn-android-yolov7](https://github.com/xiang-wuu/ncnn-android-yolov7)
 
