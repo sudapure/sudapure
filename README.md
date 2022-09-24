@@ -37,6 +37,8 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 * [xiang-wuu/opencv-projects](https://github.com/xiang-wuu/opencv-projects) - Collection of many usefull computer vision based projects for study and academic purposes. 
 
+⚡:1st_place_medal: **Private Work Portfolio**:
+- [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/mlops_readme.md). :heavy_check_mark::1st_place_medal: 
 
 ### Skills
 
