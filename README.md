@@ -33,9 +33,9 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 * [Yolov7](https://github.com/WongKinYiu/yolov7) (5.5k Stars) - Added TensorRT inference support to offecial Yolov7 implementation. ([PR](https://github.com/WongKinYiu/yolov7/pull/57)), also added some very basic functionality ([PR](https://github.com/WongKinYiu/yolov7/pull/54))
 
-* [xiang-wuu/TensorRT-PTQ](https://github.com/xiang-wuu/TensorRT-PTQ) - Post Training Quantization inference using TensorRT for different CNN Architectures. 
+* [xiang-wuu/TensorRT-PTQ](https://github.com/xiang-wuu/TensorRT-PTQ):lock: - Post Training Quantization inference using TensorRT for different CNN Architectures. 
 
-* [xiang-wuu/opencv-projects](https://github.com/xiang-wuu/opencv-projects) - Collection of many usefull computer vision based projects for study and academic purposes. 
+* [xiang-wuu/opencv-projects](https://github.com/xiang-wuu/opencv-projects):lock: - Collection of many usefull computer vision based projects for study and academic purposes. 
 
 ⚡:1st_place_medal: **Private Work Portfolio**:
 - [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
