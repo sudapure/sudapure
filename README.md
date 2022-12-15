@@ -41,6 +41,7 @@ I'm an engineer with interest in applied ML and software development. I love wor
 - [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
 - [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4.1-gender-deploy.md). :heavy_check_mark::1st_place_medal: 
 - [TensorRT Release for full-body Gender Classification bsaed on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4-gender-deploy.md). :heavy_check_mark::1st_place_medal:
+- [TensorRT Release for Person ReID UseCase based on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/reid_trt_release.md). :heavy_check_mark::1st_place_medal:
 
 ### Skills
 
