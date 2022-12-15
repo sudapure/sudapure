@@ -39,6 +39,7 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 ⚡:1st_place_medal: **Private Work Portfolio**:
 - [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
+- [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4.1-gender-deploy.md). :heavy_check_mark::1st_place_medal: 
 
 ### Skills
 
