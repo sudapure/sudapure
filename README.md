@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
+I'm Engineer & an AI Solution Architect with interest in applied AI and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
 
 <table  border="0" cellspacing="0" cellpadding="0">
   <tr><td width="20%" height="20%"><a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1632479"/></a>
@@ -12,7 +12,7 @@ I'm an engineer with interest in applied ML and software development. I love wor
 - Leading ML engineers along with MLOps data associates.
 - Evaluating and Researching with various ML/DL algorithms which suits high level problem requirements.
 - Responsible for establishing and managing MLOps and complex ML workflow pipeline along with source version control system.
-- Leading team of data science & feature engineers along with manual data annotation developers.
+- Leading team of ML Developers & Feature Engineers along with manual data annotation developers.
 - Experience in working with PyTorch deep learning framework for design and implementation of CNN's for image recognition, classification, retrieval problems.
 - Deciding optimization strategies for complex computer vision based deep learning problems.
 - Experience in deploying pre-trained NN models to highly optimized inference engines like NVIDIA TensorRT, Intel Openvino, TFlite and Android NDK's.
@@ -37,11 +37,24 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 * [xiang-wuu/opencv-projects](https://github.com/xiang-wuu/opencv-projects):lock: - Collection of many usefull computer vision based projects for study and academic purposes. 
 
-⚡:1st_place_medal: **Private Work Portfolio**:
+### Private Work Portfolio:
+
+⚡:1st_place_medal: **Deployment Releases**
+   
 - [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
-- [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4.1-gender-deploy.md). :heavy_check_mark::1st_place_medal: 
-- [TensorRT Release for full-body Gender Classification bsaed on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4-gender-deploy.md). :heavy_check_mark::1st_place_medal:
-- [TensorRT Release for Person ReID UseCase based on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/reid_trt_release.md). :heavy_check_mark::1st_place_medal:
+- [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4.1-gender-deploy.md) - (08/12/2022). :heavy_check_mark::1st_place_medal: 
+- [TensorRT Release for full-body Gender Classification based on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4-gender-deploy.md) - (21/11/2022). :heavy_check_mark::1st_place_medal:
+- [TensorRT Release for Person ReID UseCase based on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/reid_trt_release.md) - (21/03/2022). :heavy_check_mark::1st_place_medal:
+
+⚡:1st_place_medal: **Research Releases**
+
+- [Multi Attribute Recognition Release based on DeepM.A.R & Weakly Supervised Implementation](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.1-alpha-research.md) - (07/07/2021). :heavy_check_mark::1st_place_medal:
+- [Multi Attribute Recognition Release based on IBN-Net architecture for Person & Vehicle UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.2-beta-research.md) - (07/12/2021). :heavy_check_mark::1st_place_medal:
+- [Traffic Light Classification & Blinking State Detection Release](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.3-beta-research.md) - (25/12/2021). :heavy_check_mark::1st_place_medal:
+- [Person Re-ID Release based on Resnet-IBN-Net-18-a architecture for Person UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4-beta-research.md) - (01/03/2022). :heavy_check_mark::1st_place_medal:
+- [Gender Classification Release based on GenNet architecture for Person UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.5-beta-research.md) - (28/05/2022). :heavy_check_mark::1st_place_medal:
+- [Concurrent Gender Classification & Person ReID Release based on IBN-Net Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.6-beta-research.md) - (05/9/2022). :heavy_check_mark::1st_place_medal:
+
 
 ### Skills
 
