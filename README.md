@@ -1,6 +1,27 @@
 ### Hi there 👋
 I'm Engineer & an AI Solution Architect with interest in applied AI and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
 
+```
+class Xiang(Minimalist):
+  def __init__(self):
+    self.professional_status = {
+      "role" : "Associate AI Solution Architect", 
+      "company" : "Vicon LLC",
+    }
+    self.degree_status = {
+      "level" : "BE", 
+      "subject" : "Computer Science",
+      "institution" : "SGB University",
+    }
+    self.languages = ["python", "java", "C/C++"]
+    self.py_datasci_stack = ["opencv", "numpy", "scikit-learn", "keras", "pytorch"]
+    self.tools = ["dvc", "git", "android-studio"]
+    
+  def main(self):
+    if not self:
+      self = self.__init__()
+```
+
 <table  border="0" cellspacing="0" cellpadding="0">
   <tr><td width="20%" height="20%"><a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://github-readme-stackoverflow.vercel.app/?userID=1632479"/></a>
 </td>
