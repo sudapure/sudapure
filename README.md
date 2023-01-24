@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Engineer & an AI Solution Architect with interest in applied AI and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
 
-```
+```javascript
 class Xiang(Minimalist):
   def __init__(self):
     self.professional_status = {
