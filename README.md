@@ -15,7 +15,7 @@ class Xiang(Minimalist):
     }
     self.languages = ["python", "java", "C/C++"]
     self.py_datasci_stack = ["opencv", "numpy", "scikit-learn", "keras", "pytorch"]
-    self.tools = ["dvc", "git", "android-studio"]
+    self.tools = ["dvc", "git", "android-studio", "vs-code"]
     
   def main(self):
     if not self:
