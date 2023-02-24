@@ -6,7 +6,7 @@ class Xiang(Minimalist):
   def __init__(self):
     self.professional_status = {
       "role" : "Associate AI Solution Architect", 
-      "company" : "Vicon LLC",
+      "company" : "Vicon-Security LLC",
     }
     self.degree_status = {
       "level" : "BE", 
