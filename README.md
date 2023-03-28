@@ -62,6 +62,7 @@ class Xiang(Minimalist):
 
 ⚡:1st_place_medal: **Deployment Releases**
    
+- [AI developement evolution & AI/NN End-to-end Pipeline](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/core_ai_evolution.md). :heavy_check_mark::1st_place_medal: 
 - [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
 - [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4.1-gender-deploy.md) - (08/12/2022). :heavy_check_mark::1st_place_medal: 
 - [TensorRT Release for full-body Gender Classification based on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4-gender-deploy.md) - (21/11/2022). :heavy_check_mark::1st_place_medal:
