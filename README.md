@@ -58,6 +58,8 @@ class Xiang(Minimalist):
 
 * [xiang-wuu/opencv-projects](https://github.com/xiang-wuu/opencv-projects):lock: - Collection of many usefull computer vision based projects for study and academic purposes. 
 
+* [xiang-wuu/activity-monitor-cpp](https://github.com/xiang-wuu/activity-monitor-cpp):lock: -  This is CPP implementation of User activity monitoring utility based on facial recogntion, this is primarily used to keep track of AFK/AFD user activity.  
+
 ### Private Work Portfolio:
 
 ⚡:1st_place_medal: **Deployment Releases**
