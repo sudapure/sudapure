@@ -125,4 +125,5 @@ class Xiang(Minimalist):
 <a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://huggingface.co/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
   <a href="https://dagshub.com/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107029401/192557388-1758133e-df80-4ca2-866a-06c02fd20d0e.png" width="32" height="32" /></a>
+  <a href="https://resume.io/r/oUZdBzIFf" target="_blank" rel="noreferrer"><img src="https://resume.io/assets/favicon/resume/apple-touch-icon-b8fda06896fb6e22e014be6ad49291c17233342397d40cb1f3bb1413143287bf.png" width="32" height="32" /></a>
 </p>
