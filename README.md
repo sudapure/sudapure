@@ -119,7 +119,7 @@ class Xiang(Minimalist):
 ### Socials
                           
 <p align="left"> 
-<a href="https://www.github.com/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/sudapure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
  <a href="https://bitbucket.org/swap786" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bitbucket-logo-A98CDF7FBA-seeklogo.com.png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/uswap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
