@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Engineer & an AI Solution Architect with interest in applied AI and software development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to NVIDIA TensorRT, Intel Openvino, Android NDK's.
+Experienced Computer Vision and ML/DL Engineer working as an Associate Solution Architect with an interest in applied AI and software development, offering 3.5+ years of expertise in research and product development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with several years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to various hardware specific chipset's including Intel, NVIDIA boards(Jetson), ARM boards(Raspberry-Pi) and Android NDK's.
 
 ```javascript
-class Xiang(Minimalist):
+class Swap(Minimalist):
   def __init__(self):
     self.professional_status = {
       "role" : "Associate AI Solution Architect", 
@@ -29,55 +29,38 @@ class Xiang(Minimalist):
     
 **My Specializations  & Expertise**
 - Understanding the problem statement & finding best optimal solution.
-- Technical decision making & finalizing solution technology.
-- Leading ML engineers along with MLOps data associates.
-- Evaluating and Researching with various ML/DL algorithms which suits high level problem requirements.
-- Responsible for establishing and managing MLOps and complex ML workflow pipeline along with source version control system.
+- Over 3.5+ years of research & product development experience in large scale multi-media analytics solution.
+- Cross-functional communicator with a self-exploratory and analytical approach towards solving techno-functional problems.
+- Technical Leadership: Guiding ML engineers and MLOps teams for efficient workflow.
+- Algorithm Research: Evaluating and implementing ML/DL algorithms as per high-level business requirements.
+- Responsible for establishing and managing MLOps and complex ML workflow  pipeline along with source & data version control system.
 - Leading team of ML Developers & Feature Engineers along with manual data annotation developers.
-- Experience in working with PyTorch deep learning framework for design and implementation of CNN's for image recognition, classification, retrieval problems.
+- Experience in working with PyTorch deep learning framework for design  and implementation of CNN's for image recognition, classification,  retrieval problems.
 - Deciding optimization strategies for complex computer vision based deep learning problems.
-- Experience in deploying pre-trained NN models to highly optimized inference engines like NVIDIA TensorRT, Intel Openvino, TFlite and Android NDK's.
+- Experience in deploying pre-trained NN models to highly optimized IE's  including NVIDIA TensorRT, Intel Openvino, TFlite and Android NDK's.
     </td>
     </tr>
 </table>
 
 
-⚡  Some of my notable open source contributions:
-
-* [Tensorrtx](https://github.com/wang-xinyu/tensorrtx)(4.6k Stars) - Integrated new [Yolov5-v6.2](https://github.com/ultralytics/yolov5/releases/tag/v6.2) classification model support to infer using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1082)). SuperPoint Pytorch implementation using TensorRT IE ([PR](https://github.com/wang-xinyu/tensorrtx/pull/1034))
-
-* [Tencent/Ncnn](https://github.com/Tencent/ncnn)(15.5k Stars) - Added sample android based application which infers Yolov7 PyTorch model. ([PR](https://github.com/Tencent/ncnn/pull/4038)), the android sample is hosted at [xiang-wuu/ncnn-android-yolov7](https://github.com/xiang-wuu/ncnn-android-yolov7)
-
-* [Yolov5](https://github.com/ultralytics/yolov5) (30k Stars) - Added Gardio integration with hugging face spaces to offecial Yolov5 implementation.([PR](https://github.com/ultralytics/yolov5/pull/8784))
-
-* [Yolov6](https://github.com/meituan/YOLOv6) (4k Stars) - Added DVC integration support to track data/model artifacts & support for MLOps integration. ([PR](https://github.com/meituan/YOLOv6/pull/250))
-
-* [Yolov7](https://github.com/WongKinYiu/yolov7) (5.5k Stars) - Added TensorRT inference support to offecial Yolov7 implementation. ([PR](https://github.com/WongKinYiu/yolov7/pull/57)), also added some very basic functionality ([PR](https://github.com/WongKinYiu/yolov7/pull/54))
-
-* [xiang-wuu/TensorRT-PTQ](https://github.com/xiang-wuu/TensorRT-PTQ):lock: - Post Training Quantization inference using TensorRT for different CNN Architectures. 
-
-* [xiang-wuu/opencv-projects](https://github.com/xiang-wuu/opencv-projects):lock: - Collection of many usefull computer vision based projects for study and academic purposes. 
-
-* [xiang-wuu/activity-monitor-cpp](https://github.com/xiang-wuu/activity-monitor-cpp):lock: -  This is CPP implementation of User activity monitoring utility based on facial recogntion, this is primarily used to keep track of AFK/AFD user activity.  
-
 ### Private Work Portfolio:
 
 ⚡:1st_place_medal: **Deployment Releases**
    
-- [AI developement evolution & AI/NN End-to-end Pipeline](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/core_ai_evolution.md). :heavy_check_mark::1st_place_medal: 
-- [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
-- [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4.1-gender-deploy.md) - (08/12/2022). :heavy_check_mark::1st_place_medal: 
-- [TensorRT Release for full-body Gender Classification based on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4-gender-deploy.md) - (21/11/2022). :heavy_check_mark::1st_place_medal:
-- [TensorRT Release for Person ReID UseCase based on ResNet-IBN-18-a Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/reid_trt_release.md) - (21/03/2022). :heavy_check_mark::1st_place_medal:
+- [AI developement evolution & AI/NN End-to-end Pipeline](https://github.com/sudapure/sudapure/blob/main/docs/core_ai_evolution.md). :heavy_check_mark::1st_place_medal: 
+- [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/sudapure/sudapure/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
+- [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.4.1-gender-deploy.md) - (08/12/2022). :heavy_check_mark::1st_place_medal: 
+- [TensorRT Release for full-body Gender Classification based on ResNet-IBN-18-a Architecture](https://github.com/sudapure/sudapure/blob/main/docs/v1.4-gender-deploy.md) - (21/11/2022). :heavy_check_mark::1st_place_medal:
+- [TensorRT Release for Person ReID UseCase based on ResNet-IBN-18-a Architecture](https://github.com/sudapure/sudapure/blob/main/docs/reid_trt_release.md) - (21/03/2022). :heavy_check_mark::1st_place_medal:
 
 ⚡:1st_place_medal: **Research Releases**
 
-- [Multi Attribute Recognition Release based on DeepM.A.R & Weakly Supervised Implementation](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/%20v1.1-alpha-research.md) - (07/07/2021). :heavy_check_mark::1st_place_medal:
-- [Multi Attribute Recognition Release based on IBN-Net architecture for Person & Vehicle UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.2-beta-research.md) - (07/12/2021). :heavy_check_mark::1st_place_medal:
-- [Traffic Light Classification & Blinking State Detection Release](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.3-beta-research.md) - (25/12/2021). :heavy_check_mark::1st_place_medal:
-- [Person Re-ID Release based on Resnet-IBN-Net-18-a architecture for Person UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.4-beta-research.md) - (01/03/2022). :heavy_check_mark::1st_place_medal:
-- [Gender Classification Release based on GenNet architecture for Person UseCase](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.5-beta-research.md) - (28/05/2022). :heavy_check_mark::1st_place_medal:
-- [Concurrent Gender Classification & Person ReID Release based on IBN-Net Architecture](https://github.com/xiang-wuu/xiang-wuu/blob/main/docs/v1.6-beta-research.md) - (05/9/2022). :heavy_check_mark::1st_place_medal:
+- [Multi Attribute Recognition Release based on DeepM.A.R & Weakly Supervised Implementation](https://github.com/sudapure/sudapure/blob/main/docs/%20v1.1-alpha-research.md) - (07/07/2021). :heavy_check_mark::1st_place_medal:
+- [Multi Attribute Recognition Release based on IBN-Net architecture for Person & Vehicle UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.2-beta-research.md) - (07/12/2021). :heavy_check_mark::1st_place_medal:
+- [Traffic Light Classification & Blinking State Detection Release](https://github.com/sudapure/sudapure/blob/main/docs/v1.3-beta-research.md) - (25/12/2021). :heavy_check_mark::1st_place_medal:
+- [Person Re-ID Release based on Resnet-IBN-Net-18-a architecture for Person UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.4-beta-research.md) - (01/03/2022). :heavy_check_mark::1st_place_medal:
+- [Gender Classification Release based on GenNet architecture for Person UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.5-beta-research.md) - (28/05/2022). :heavy_check_mark::1st_place_medal:
+- [Concurrent Gender Classification & Person ReID Release based on IBN-Net Architecture](https://github.com/sudapure/sudapure/blob/main/docs/v1.6-beta-research.md) - (05/9/2022). :heavy_check_mark::1st_place_medal:
 
 
 ### Skills
@@ -123,7 +106,6 @@ class Xiang(Minimalist):
  <a href="https://bitbucket.org/swap786" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bitbucket-logo-A98CDF7FBA-seeklogo.com.png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/uswap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/1632479/u-swap?tab=topactivity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://huggingface.co/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
-  <a href="https://dagshub.com/xiang-wuu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107029401/192557388-1758133e-df80-4ca2-866a-06c02fd20d0e.png" width="32" height="32" /></a>
+  <a href="https://dagshub.com/sudapure" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107029401/192557388-1758133e-df80-4ca2-866a-06c02fd20d0e.png" width="32" height="32" /></a>
   <a href="https://resume.io/r/oUZdBzIFf" target="_blank" rel="noreferrer"><img src="https://resume.io/assets/favicon/resume/apple-touch-icon-b8fda06896fb6e22e014be6ad49291c17233342397d40cb1f3bb1413143287bf.png" width="32" height="32" /></a>
 </p>
