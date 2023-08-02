@@ -47,20 +47,20 @@ class Swap(Minimalist):
 
 ⚡:1st_place_medal: **Deployment Releases**
    
-- [AI developement evolution & AI/NN End-to-end Pipeline](https://github.com/sudapure/sudapure/blob/main/docs/core_ai_evolution.md). :heavy_check_mark::1st_place_medal: 
-- [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](https://github.com/sudapure/sudapure/blob/main/docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
-- [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.4.1-gender-deploy.md) - (08/12/2022). :heavy_check_mark::1st_place_medal: 
-- [TensorRT Release for full-body Gender Classification based on ResNet-IBN-18-a Architecture](https://github.com/sudapure/sudapure/blob/main/docs/v1.4-gender-deploy.md) - (21/11/2022). :heavy_check_mark::1st_place_medal:
-- [TensorRT Release for Person ReID UseCase based on ResNet-IBN-18-a Architecture](https://github.com/sudapure/sudapure/blob/main/docs/reid_trt_release.md) - (21/03/2022). :heavy_check_mark::1st_place_medal:
+- [AI developement evolution & AI/NN End-to-end Pipeline](docs/core_ai_evolution.md). :heavy_check_mark::1st_place_medal: 
+- [Resposnible for design & implementation of ML workflow pipeline using DVC+Git](docs/mlops_readme.md#data-standardization--workflow-pipeline). :heavy_check_mark::1st_place_medal: 
+- [S.O.T.A TensorRT Release for full-body Gender Classification UseCase](docs/v1.4.1-gender-deploy.md) - (08/12/2022). :heavy_check_mark::1st_place_medal: 
+- [TensorRT Release for full-body Gender Classification based on ResNet-IBN-18-a Architecture](docs/v1.4-gender-deploy.md) - (21/11/2022). :heavy_check_mark::1st_place_medal:
+- [TensorRT Release for Person ReID UseCase based on ResNet-IBN-18-a Architecture](docs/reid_trt_release.md) - (21/03/2022). :heavy_check_mark::1st_place_medal:
 
 ⚡:1st_place_medal: **Research Releases**
 
-- [Multi Attribute Recognition Release based on DeepM.A.R & Weakly Supervised Implementation](https://github.com/sudapure/sudapure/blob/main/docs/%20v1.1-alpha-research.md) - (07/07/2021). :heavy_check_mark::1st_place_medal:
-- [Multi Attribute Recognition Release based on IBN-Net architecture for Person & Vehicle UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.2-beta-research.md) - (07/12/2021). :heavy_check_mark::1st_place_medal:
-- [Traffic Light Classification & Blinking State Detection Release](https://github.com/sudapure/sudapure/blob/main/docs/v1.3-beta-research.md) - (25/12/2021). :heavy_check_mark::1st_place_medal:
-- [Person Re-ID Release based on Resnet-IBN-Net-18-a architecture for Person UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.4-beta-research.md) - (01/03/2022). :heavy_check_mark::1st_place_medal:
-- [Gender Classification Release based on GenNet architecture for Person UseCase](https://github.com/sudapure/sudapure/blob/main/docs/v1.5-beta-research.md) - (28/05/2022). :heavy_check_mark::1st_place_medal:
-- [Concurrent Gender Classification & Person ReID Release based on IBN-Net Architecture](https://github.com/sudapure/sudapure/blob/main/docs/v1.6-beta-research.md) - (05/9/2022). :heavy_check_mark::1st_place_medal:
+- [Multi Attribute Recognition Release based on DeepM.A.R & Weakly Supervised Implementation](docs/%20v1.1-alpha-research.md) - (07/07/2021). :heavy_check_mark::1st_place_medal:
+- [Multi Attribute Recognition Release based on IBN-Net architecture for Person & Vehicle UseCase](docs/v1.2-beta-research.md) - (07/12/2021). :heavy_check_mark::1st_place_medal:
+- [Traffic Light Classification & Blinking State Detection Release](docs/v1.3-beta-research.md) - (25/12/2021). :heavy_check_mark::1st_place_medal:
+- [Person Re-ID Release based on Resnet-IBN-Net-18-a architecture for Person UseCase](docs/v1.4-beta-research.md) - (01/03/2022). :heavy_check_mark::1st_place_medal:
+- [Gender Classification Release based on GenNet architecture for Person UseCase](docs/v1.5-beta-research.md) - (28/05/2022). :heavy_check_mark::1st_place_medal:
+- [Concurrent Gender Classification & Person ReID Release based on IBN-Net Architecture](docs/v1.6-beta-research.md) - (05/9/2022). :heavy_check_mark::1st_place_medal:
 
 
 ### Skills
