@@ -57,8 +57,8 @@ class Swap(Minimalist):
 
 - [Multi Attribute Recognition Release based on DeepM.A.R & Weakly Supervised Implementation](docs/%20v1.1-alpha-research.md) - (07/07/2021). :heavy_check_mark::1st_place_medal:
 - [Multi Attribute Recognition Release based on IBN-Net architecture for Person & Vehicle UseCase](docs/v1.2-beta-research.md) - (07/12/2021). :heavy_check_mark::1st_place_medal:
-- [Traffic Light Classification & Blinking State Detection Release](docs/v1.3-beta-research.md) - (25/12/2021). :heavy_check_mark::1st_place_medal:
-- [Person Re-ID Release based on Resnet-IBN-Net-18-a architecture for Person UseCase](docs/v1.4-beta-research.md) - (01/03/2022). :heavy_check_mark::1st_place_medal:
+- [Traffic Light Classification & Blinking State Detection Release](docs/%20v1.3-beta-research.md) - (25/12/2021). :heavy_check_mark::1st_place_medal:
+- [Person Re-ID Release based on Resnet-IBN-Net-18-a architecture for Person UseCase](docs/%20v1.4-beta-research.md) - (01/03/2022). :heavy_check_mark::1st_place_medal:
 - [Gender Classification Release based on GenNet architecture for Person UseCase](docs/v1.5-beta-research.md) - (28/05/2022). :heavy_check_mark::1st_place_medal:
 - [Concurrent Gender Classification & Person ReID Release based on IBN-Net Architecture](docs/v1.6-beta-research.md) - (05/9/2022). :heavy_check_mark::1st_place_medal:
 
