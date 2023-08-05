@@ -1,5 +1,5 @@
 ### Hi there 👋
-Experienced Computer Vision and ML/DL Engineer working as an Associate Solution Architect with an interest in applied AI and software development, offering 3.5+ years of expertise in research and product development. I love working with and contributing to open source projects. Professional Computer Vision & ML/DL Expert with several years of experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to various hardware specific chipset's including Intel, NVIDIA boards(Jetson), ARM boards(Raspberry-Pi) and Android NDK's.
+Experienced Computer Vision and ML/DL Engineer working as an Associate Solution Architect with an interest in applied AI  and software development, offering several years of expertise in research and product development. I love working with and contributing to open source projects. Professional experience in researching and implementing optimized deployment solutions for various target platforms. Proven experience in deploying solutions to various hardware specific chipset's including Intel,  NVIDIA boards(Jetson), ARM boards(Raspberry-Pi) and Android NDK's.
 
 ```javascript
 class Swap(Minimalist):
@@ -29,15 +29,15 @@ class Swap(Minimalist):
     
 **My Specializations  & Expertise**
 - Understanding the problem statement & finding best optimal solution.
-- Over 3.5+ years of research & product development experience in large scale multi-media analytics solution.
-- Cross-functional communicator with a self-exploratory and analytical approach towards solving techno-functional problems.
+ - Over several years of research & product development experience in large scale multi-media analytics solution.
+ - Cross-functional communicator with a self-exploratory and analytical approach towards solving techno-functional problems.
 - Technical Leadership: Guiding ML engineers and MLOps teams for efficient workflow.
-- Algorithm Research: Evaluating and implementing ML/DL algorithms as per high-level business requirements.
-- Responsible for establishing and managing MLOps and complex ML workflow  pipeline along with source & data version control system.
-- Leading team of ML Developers & Feature Engineers along with manual data annotation developers.
-- Experience in working with PyTorch deep learning framework for design  and implementation of CNN's for image recognition, classification,  retrieval problems.
-- Deciding optimization strategies for complex computer vision based deep learning problems.
-- Experience in deploying pre-trained NN models to highly optimized IE's  including NVIDIA TensorRT, Intel Openvino, TFlite and Android NDK's.
+ - Algorithm Research: Evaluating and implementing ML/DL algorithms for high-level requirements.
+ - Responsible for establishing and managing MLOps and complex ML workflow  pipeline along with source & data version control system.
+ - Leading team of ML Developers & Feature Engineers along with manual data annotation developers.
+ - Experience in working with PyTorch deep learning framework for design  and implementation of CNN's for image recognition, classification,  retrieval problems.
+ - Deciding optimization strategies for complex computer vision based deep learning problems.
+ - Experience in deploying pre-trained NN models to highly optimized IE's  including NVIDIA TensorRT, Intel Openvino, TFlite and Android NDK's.
     </td>
     </tr>
 </table>
